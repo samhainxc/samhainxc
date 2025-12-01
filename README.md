@@ -1,9 +1,10 @@
-## sam <sub><sup>(they/them)</sup></sub>
-self-taught front end developer. i also play final fantasy xiv too much.
+# sam <sub><sup>(they/them)</sup></sub>
+**`Front-End / Web Developer`** <img width="16" valign="middle" src="https://skillicons.dev/icons?i=javascript&theme=dark"> <img width="16" valign="middle" src="https://skillicons.dev/icons?i=html&theme=dark"> <img width="16" valign="middle" src="https://skillicons.dev/icons?i=css&theme=dark">
 
-<p align="left">
-  <!-- Pulled from https://github.com/tandpfun/skill-icons -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,bootstrap,mongo&theme=dark" />
-  </a>
-</div>
+self-taught, indie developer creating whatever i think of. i like matching aesthetics with functionality.
+
+<img align="left" alt="samhainxc's GitHub Stats" src="https://github-readme-stats-beta-five-hrgh5umfdg.vercel.app/api?username=samhainxc&show_icons=true&hide_border=true&theme=nord"/>
+
+<img align="left" alt="samhainxc's GitHub Stats" src="https://github-readme-stats-beta-five-hrgh5umfdg.vercel.app/api/top-langs/?username=samhainxc&layout=compact&hide_border=true&theme=nord"/>
+
+![Metrics](https://metrics.lecoq.io/?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FChicago)
