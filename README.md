@@ -6,5 +6,3 @@ self-taught, indie developer creating whatever i think of. i like matching aesth
 <img align="left" alt="samhainxc's GitHub Stats" src="https://github-readme-stats-beta-five-hrgh5umfdg.vercel.app/api?username=samhainxc&show_icons=true&hide_border=true&theme=nord"/>
 
 <img align="left" alt="samhainxc's GitHub Stats" src="https://github-readme-stats-beta-five-hrgh5umfdg.vercel.app/api/top-langs/?username=samhainxc&layout=compact&hide_border=true&theme=nord"/>
-
-![Metrics](https://metrics.lecoq.io/?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FChicago)
